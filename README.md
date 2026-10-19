@@ -5,4 +5,4 @@ This command is only compatible with agents that support Markdown-based slash co
 
 ## Installation
 Run the following command to install this command into your OpenCode:
-bunx opencode-marketplace install https://github.com/kw-1129/agents-deps-commend
+bunx opencode-marketplace install https://github.com/kw-1129/agents-deps-command
